@@ -15,7 +15,9 @@ for_each-map
 
 **Best Practices**
 Use maps with for_each for unique configuration per resource—super flexible.
+
 Run terraform fmt, terraform validate to keep your code clean and error-free.
+
 For reusable logic, consider encapsulating this into modules.
 
 Stars ⭐ welcome if you find it helpful. Thanks for dropping by!
