@@ -4,10 +4,13 @@ This project leverages Terraform’s `for_each` combined with **maps** to **dyna
 
 
 ##  Project Structure
-for_each-map/
+for_each-map
 ├── main.tf # Terraform resources with for_each & maps
+
 ├── provider.tf # Azure provider setup
+
 ├── variables.tf # Input variables (map definitions etc.)
+
 
 
 **Best Practices**
